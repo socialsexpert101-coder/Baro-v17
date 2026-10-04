@@ -1,0 +1,64 @@
+name: BARO — importer un export OSM
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-osm:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer BARO
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Vérifier la présence de l'export OSM
+        run: |
+          if [ ! -f data/osm-export.json ]; then
+            echo "ERREUR : data/osm-export.json est absent."
+            echo "Ajoute d'abord l'export OpenStreetMap dans le dépôt."
+            exit 1
+          fi
+
+      - name: Importer OpenStreetMap dans BARO
+        run: python scripts/import_osm.py data/osm-export.json
+
+      - name: Reconstruire la base BARO
+        run: python scripts/build_data.py
+
+      - name: Vérifier la base BARO
+        run: |
+          python - <<'PY'
+          import json
+
+          with open("data/bars.json", encoding="utf-8") as f:
+              bars = json.load(f)
+
+          print(f"BARO : {len(bars)} établissements après enrichissement")
+
+          if len(bars) == 0:
+              raise SystemExit("ERREUR : la base BARO est vide.")
+          PY
+
+      - name: Enregistrer les données enrichies
+        run: |
+          git config user.name "BARO Bot"
+          git config user.email "actions@github.com"
+
+          git add \
+            data/enrichment.json \
+            data/gps-cache.json \
+            data/bars.json \
+            data/meta.json
+
+          git diff --cached --quiet || \
+            git commit -m "Enrichissement OpenStreetMap BARO"
+
+          git push
