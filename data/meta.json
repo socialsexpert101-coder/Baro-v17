@@ -1,1 +1,8 @@
-{"updated": "Lancement", "source": "RACJ / Donn\u00e9es Qu\u00e9bec"}
+{
+  "updated": "2026-10-04",
+  "source": "RACJ / Données Québec",
+  "license": "CC-BY 4.0",
+  "count": 3519,
+  "sourceRows": 32109,
+  "sourceEstablishments": 18543
+}
