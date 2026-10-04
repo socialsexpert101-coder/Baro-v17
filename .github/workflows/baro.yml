@@ -1,0 +1,69 @@
+name: BARO — synchronisation et publication
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 9 * * 1"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Récupérer BARO
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Construire la base de données RACJ
+        run: python scripts/build_data.py
+
+      - name: Vérifier que la base n'est pas vide
+        run: |
+          python - <<'PY'
+          import json
+
+          with open("data/bars.json", encoding="utf-8") as f:
+              bars = json.load(f)
+
+          print(f"BARO : {len(bars)} établissements chargés")
+
+          if len(bars) == 0:
+              raise SystemExit("ERREUR : la base BARO est vide.")
+          PY
+
+      - name: Enregistrer la base actualisée
+        run: |
+          git config user.name "BARO Bot"
+          git config user.email "actions@github.com"
+          git add data/bars.json data/meta.json
+          git diff --cached --quiet || git commit -m "Mise à jour automatique de la base BARO"
+          git push
+
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Préparer le site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Publier BARO
+        id: deployment
+        uses: actions/deploy-pages@v4
