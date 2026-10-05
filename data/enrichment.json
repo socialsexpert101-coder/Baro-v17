@@ -9,7 +9,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 400329715
+    "osmId": 400329715,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "202341": {
     "openingHours": "Mo-Fr 11:00-03:00; Sa-Su 12:00-03:00",
@@ -24,7 +26,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 894442648
+    "osmId": 894442648,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "357855": {
     "openingHours": "",
@@ -36,7 +40,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 1074307058
+    "osmId": 1074307058,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "196766": {
     "openingHours": "Mo-Su 15:00-03:00",
@@ -50,7 +56,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 1205310350
+    "osmId": 1205310350,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "376996": {
     "openingHours": "",
@@ -62,7 +70,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 1572271381
+    "osmId": 1572271381,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2215564": {
     "openingHours": "Sa-We 14:00-03:00; Th-Fr 11:00-03:00",
@@ -74,7 +84,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 1573497823
+    "osmId": 1573497823,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1554237": {
     "openingHours": "Mo-Fr 11:30-03:00; Sa-Su 10:00-03:00",
@@ -88,7 +100,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 1643704029
+    "osmId": 1643704029,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "309385": {
     "openingHours": "We 16:00-24:00; Th 16:00-01:00; Fr-Sa 17:00-03:00",
@@ -100,7 +114,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 1654261292
+    "osmId": 1654261292,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "301044": {
     "openingHours": "Mo-Sa 16:00-18:00+",
@@ -112,7 +128,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 1790486589
+    "osmId": 1790486589,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "174649": {
     "openingHours": "",
@@ -124,7 +142,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2109933302
+    "osmId": 2109933302,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1415298": {
     "openingHours": "Mo-Su 08:00-03:00",
@@ -136,7 +156,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2371362143
+    "osmId": 2371362143,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1947647": {
     "openingHours": "Mo-Fr 11:30-03:00, Sa-Tu 12:00-03:00",
@@ -148,7 +170,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2371362148
+    "osmId": 2371362148,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "207290": {
     "openingHours": "Mo-Su 11:00-03:00+",
@@ -160,7 +184,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2376624458
+    "osmId": 2376624458,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1891662": {
     "openingHours": "",
@@ -172,7 +198,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2429428744
+    "osmId": 2429428744,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "320200": {
     "openingHours": "Mo-Su 09:00-03:00",
@@ -184,7 +212,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2496131039
+    "osmId": 2496131039,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "227926": {
     "openingHours": "Mo-Su 09:00-03:00",
@@ -196,7 +226,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2503398326
+    "osmId": 2503398326,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1216266": {
     "openingHours": "",
@@ -208,7 +240,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2510769590
+    "osmId": 2510769590,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "360107": {
     "openingHours": "",
@@ -220,7 +254,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2663707974
+    "osmId": 2663707974,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "287995": {
     "openingHours": "",
@@ -232,7 +268,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2691375024
+    "osmId": 2691375024,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "183558": {
     "openingHours": "15:00-03:00",
@@ -244,7 +282,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2976016188
+    "osmId": 2976016188,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "203802": {
     "openingHours": "Mo-Su 12:00-03:00",
@@ -269,7 +309,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 2998951655
+    "osmId": 2998951655,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "255349": {
     "openingHours": "",
@@ -281,7 +323,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 3321849863
+    "osmId": 3321849863,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1219963": {
     "openingHours": "Mo-Fr 17:00-03:00; Sa-Su 16:00-23:00",
@@ -293,7 +337,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 3625893198
+    "osmId": 3625893198,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "157586": {
     "openingHours": "",
@@ -305,7 +351,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 3690122099
+    "osmId": 3690122099,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "300707": {
     "openingHours": "",
@@ -317,7 +365,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 3690435697
+    "osmId": 3690435697,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "367326": {
     "openingHours": "",
@@ -329,7 +379,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 3690785600
+    "osmId": 3690785600,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "326900": {
     "openingHours": "",
@@ -341,7 +393,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4331570291
+    "osmId": 4331570291,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "378786": {
     "openingHours": "",
@@ -353,7 +407,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4353132416
+    "osmId": 4353132416,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "176347": {
     "openingHours": "",
@@ -365,7 +421,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4362182746
+    "osmId": 4362182746,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "824623": {
     "openingHours": "",
@@ -377,7 +435,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4368685572
+    "osmId": 4368685572,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2671154": {
     "openingHours": "",
@@ -389,7 +449,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4392707736
+    "osmId": 4392707736,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1202860": {
     "openingHours": "",
@@ -403,7 +465,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4394342706
+    "osmId": 4394342706,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2034486": {
     "openingHours": "",
@@ -415,7 +479,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4408899107
+    "osmId": 4408899107,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "299602": {
     "openingHours": "Mo-Su 14:00-03:00",
@@ -427,7 +493,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4412670295
+    "osmId": 4412670295,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "323816": {
     "openingHours": "Mo off; Tu-We 16:30-23:00; Th 16:30-24:00; Fr 16:30-01:00; Sa 16:30-24:00; Su off",
@@ -439,7 +507,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4747770321
+    "osmId": 4747770321,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10225862": {
     "openingHours": "",
@@ -451,7 +521,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4818894622
+    "osmId": 4818894622,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "277772": {
     "openingHours": "",
@@ -463,7 +535,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 4888512122
+    "osmId": 4888512122,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "228650": {
     "openingHours": "",
@@ -475,7 +549,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 5150657899
+    "osmId": 5150657899,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "233296": {
     "openingHours": "",
@@ -487,7 +563,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 5656763665
+    "osmId": 5656763665,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "313221": {
     "openingHours": "Mo-Su 15:00-03:00",
@@ -499,7 +577,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 5667587006
+    "osmId": 5667587006,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "195479": {
     "openingHours": "",
@@ -511,7 +591,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 5706050521
+    "osmId": 5706050521,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "240051": {
     "openingHours": "",
@@ -523,7 +605,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 5902621985
+    "osmId": 5902621985,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "375360": {
     "openingHours": "",
@@ -535,7 +619,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 6015200184
+    "osmId": 6015200184,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "3307972": {
     "openingHours": "",
@@ -547,7 +633,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 6138109720
+    "osmId": 6138109720,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "859900": {
     "openingHours": "Mo-Su 13:00-01:00",
@@ -559,7 +647,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 6215288671
+    "osmId": 6215288671,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2370799": {
     "openingHours": "",
@@ -571,7 +661,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 6517606330
+    "osmId": 6517606330,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "600528": {
     "openingHours": "",
@@ -583,7 +675,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 6545257286
+    "osmId": 6545257286,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10092585": {
     "openingHours": "Mo-Tu 15:00-23:00; We 15:00-00:00; Th-Sa 12:00-01:00; Su 12:00-23:00",
@@ -599,7 +693,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 6629228123
+    "osmId": 6629228123,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1998228": {
     "openingHours": "",
@@ -611,7 +707,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 6815701039
+    "osmId": 6815701039,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2660306": {
     "openingHours": "Mo-Su 16:00-01:00",
@@ -631,7 +729,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 7081574885
+    "osmId": 7081574885,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10023218": {
     "openingHours": "",
@@ -643,7 +743,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 7444820717
+    "osmId": 7444820717,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "154161": {
     "openingHours": "",
@@ -655,7 +757,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 7860165463
+    "osmId": 7860165463,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4936605": {
     "openingHours": "Mo-We 15:00-23:00; Th-Sa 15:00-00:00",
@@ -669,7 +773,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 8040911214
+    "osmId": 8040911214,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "373068": {
     "openingHours": "",
@@ -681,7 +787,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 8704955838
+    "osmId": 8704955838,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "161737": {
     "openingHours": "10:00 - 3:00",
@@ -693,7 +801,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9084681024
+    "osmId": 9084681024,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1963537": {
     "openingHours": "",
@@ -705,7 +815,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9214719314
+    "osmId": 9214719314,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "196592": {
     "openingHours": "Mo-Su 15:00-03:00",
@@ -719,7 +831,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9244252500
+    "osmId": 9244252500,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2085165": {
     "openingHours": "",
@@ -731,7 +845,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9248862645
+    "osmId": 9248862645,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2835114": {
     "openingHours": "",
@@ -743,7 +859,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9315817895
+    "osmId": 9315817895,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4634630": {
     "openingHours": "Su-Tu 11:00-24:00;We-Sa 11:00-25:00",
@@ -755,7 +873,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9332879918
+    "osmId": 9332879918,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "351684": {
     "openingHours": "",
@@ -767,7 +887,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9334559264
+    "osmId": 9334559264,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "276394": {
     "openingHours": "",
@@ -779,7 +901,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9390956645
+    "osmId": 9390956645,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "3962636": {
     "openingHours": "",
@@ -791,7 +915,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9428806347
+    "osmId": 9428806347,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1076587": {
     "openingHours": "",
@@ -803,7 +929,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9594191998
+    "osmId": 9594191998,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "3146883": {
     "openingHours": "",
@@ -817,7 +945,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9800261297
+    "osmId": 9800261297,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "170241": {
     "openingHours": "",
@@ -829,7 +959,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 9808689865
+    "osmId": 9808689865,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "360164": {
     "openingHours": "",
@@ -841,7 +973,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 10743634528
+    "osmId": 10743634528,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "188946": {
     "openingHours": "",
@@ -853,7 +987,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 10756815828
+    "osmId": 10756815828,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "159095": {
     "openingHours": "",
@@ -865,7 +1001,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 10779822114
+    "osmId": 10779822114,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1793553": {
     "openingHours": "Mo-Su 17:00-03:00",
@@ -877,7 +1015,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11004959245
+    "osmId": 11004959245,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "374801": {
     "openingHours": "",
@@ -893,7 +1033,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11004970512
+    "osmId": 11004970512,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "723775": {
     "openingHours": "Mo-Su 08:00-03:00; PH off",
@@ -905,7 +1047,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11209207366
+    "osmId": 11209207366,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "493601": {
     "openingHours": "Mo-Su 10:00-03:00",
@@ -919,7 +1063,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11245695451
+    "osmId": 11245695451,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "262568": {
     "openingHours": "",
@@ -931,7 +1077,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11520610497
+    "osmId": 11520610497,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10033449": {
     "openingHours": "",
@@ -943,7 +1091,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11869091446
+    "osmId": 11869091446,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "161596": {
     "openingHours": "Mo-Sa 15:00-03:00; Su 03:00-24:00",
@@ -955,7 +1105,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11972600510
+    "osmId": 11972600510,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "246249": {
     "openingHours": "",
@@ -967,7 +1119,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11972841148
+    "osmId": 11972841148,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "311456": {
     "openingHours": "",
@@ -979,7 +1133,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11972926279
+    "osmId": 11972926279,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10237230": {
     "openingHours": "Mo-Su 16:30-02:00",
@@ -991,7 +1147,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11973468695
+    "osmId": 11973468695,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1529684": {
     "openingHours": "We-Th 17:00-01:00; Fr-Sa 17:00-03:00",
@@ -1005,7 +1163,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 11998972548
+    "osmId": 11998972548,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10098988": {
     "openingHours": "Tu-We,Sa 12:00-23:00, Th-Fr 12:00-00:00, Su 13:00-22:00",
@@ -1019,7 +1179,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 12113527965
+    "osmId": 12113527965,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "316489": {
     "openingHours": "",
@@ -1031,7 +1193,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 12514207332
+    "osmId": 12514207332,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "351650": {
     "openingHours": "",
@@ -1043,7 +1207,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 12847979962
+    "osmId": 12847979962,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "271437": {
     "openingHours": "Mo-Fr 11:00-03:00; Sa-Su 10:30-03:00",
@@ -1055,7 +1221,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 13039896109
+    "osmId": 13039896109,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4155511": {
     "openingHours": "",
@@ -1067,7 +1235,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 13261552255
+    "osmId": 13261552255,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4560520": {
     "openingHours": "",
@@ -1079,7 +1249,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "node",
-    "osmId": 13739215443
+    "osmId": 13739215443,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "178251": {
     "openingHours": "Su 09:00-00:00; Mo-Tu 09:00-01:00; We 09:00-02:00; Th-Sa 09:00-03:00",
@@ -1091,7 +1263,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 68609320
+    "osmId": 68609320,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "315911": {
     "openingHours": "",
@@ -1103,7 +1277,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 161918337
+    "osmId": 161918337,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "374264": {
     "openingHours": "",
@@ -1115,7 +1291,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 214782749
+    "osmId": 214782749,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "157743": {
     "openingHours": "",
@@ -1127,7 +1305,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 245721917
+    "osmId": 245721917,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "487751": {
     "openingHours": "",
@@ -1139,7 +1319,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 263391139
+    "osmId": 263391139,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "252593": {
     "openingHours": "",
@@ -1153,7 +1335,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 330554301
+    "osmId": 330554301,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "373431": {
     "openingHours": "",
@@ -1165,7 +1349,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 355404445
+    "osmId": 355404445,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "220061": {
     "openingHours": "",
@@ -1177,7 +1363,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 399832535
+    "osmId": 399832535,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4660213": {
     "openingHours": "Su-Th 11:30-00:00; Fr-Sa 11:30-01:00",
@@ -1192,7 +1380,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 473653358
+    "osmId": 473653358,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "861393": {
     "openingHours": "Mo-Su 08:00-03:00",
@@ -1204,7 +1394,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 473653682
+    "osmId": 473653682,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1026012": {
     "openingHours": "",
@@ -1216,7 +1408,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 479617645
+    "osmId": 479617645,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "3521051": {
     "openingHours": "",
@@ -1228,7 +1422,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 484236636
+    "osmId": 484236636,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "328278": {
     "openingHours": "",
@@ -1240,7 +1436,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 520432181
+    "osmId": 520432181,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1174499": {
     "openingHours": "Mo 15:00-00:00; Tu-We 00:00-03:00,15:00-00:00; Th-Sa 00:00-03:00,13:00-00:00; Su 00:00-03:00,15:00-19:00",
@@ -1252,7 +1450,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 553841996
+    "osmId": 553841996,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2761732": {
     "openingHours": "",
@@ -1264,7 +1464,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 806257899
+    "osmId": 806257899,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2808327": {
     "openingHours": "Tu,We 10:00-22:00; Th,Fr 10:00-23:00; Sa 12:00-23:00",
@@ -1276,7 +1478,9 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 1088857188
+    "osmId": 1088857188,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "172973": {
     "openingHours": "Mo-Su 08:00-03:00",
@@ -1288,6 +1492,780 @@
     "source": "OpenStreetMap",
     "verified": false,
     "osmType": "way",
-    "osmId": 1391407556
+    "osmId": 1391407556,
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
+  },
+  "537019": {
+    "openingHours": "Mo-Su 11:30-03:00",
+    "website": "https://www.mckibbinsirishpub.com/",
+    "phone": "+1 514 282 1580",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 458913001,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.974
+  },
+  "880567": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 791723167,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "2779569": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 1232026851,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "735423": {
+    "openingHours": "Su-We 10:00-01:00; Th-Sa 10:00-03:00",
+    "website": "https://www.restobardarling.com",
+    "phone": "+1 514-379-1233",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 1572065861,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.88
+  },
+  "1056845": {
+    "openingHours": "Sa-Th 15:30-03:00; Fr 11:00-03:00",
+    "website": "https://www.refugedesbrasseurs.ca/",
+    "phone": "+1 819-791-7574",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 1833790932,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.93
+  },
+  "709659": {
+    "openingHours": "",
+    "website": "",
+    "phone": "+1-819-562-7907",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2015124620,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "2385060": {
+    "openingHours": "Mo-Th 16:00-00:00; Fr-Su 12:00-00:00",
+    "website": "https://brasseurdemontreal.com",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": true,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2092562034,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "2109924": {
+    "openingHours": "",
+    "website": "https://bedondaine.com/",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": true,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2427035958,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.931
+  },
+  "261909": {
+    "openingHours": "Mo-Su 16:00-03:00",
+    "website": "https://www.quaidesbrumes.ca",
+    "phone": "+1 514 499 0467",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2496131104,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "1233717": {
+    "openingHours": "Mo-Su 08:00-02:00",
+    "website": "https://www.facebook.com/brunosportbar/",
+    "phone": "+1 514 271 8364",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2496703811,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.968
+  },
+  "322644": {
+    "openingHours": "Sa,Su 10:00-03:00, Mo-Fr 09:00-03:00",
+    "website": "",
+    "phone": "+1 514 254 9897",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2505434855,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.966
+  },
+  "307256": {
+    "openingHours": "",
+    "website": "http://www.lebaldulezard.com/",
+    "phone": "+1 418-529-3829",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2519977532,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.897
+  },
+  "345272": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2525305961,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "960716": {
+    "openingHours": "Mo-Su 16:00-24:00",
+    "website": "https://pubquartierlatin.com/",
+    "phone": "+1 514 845 3301",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2633960911,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "1619139": {
+    "openingHours": "Mo-Su 11:30-21:00",
+    "website": "https://www.lamic.ca/",
+    "phone": "+1-819-843-3405",
+    "liveMusic": null,
+    "craftBeer": true,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 2727339297,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "10260240": {
+    "openingHours": "",
+    "website": "https://www.mckibbinsirishpub.com/",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 3020376727,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.976
+  },
+  "2203750": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 3460809823,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "288092": {
+    "openingHours": "Mo-Su 15:00-03:00",
+    "website": "",
+    "phone": "+1-819-378-9925",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 3460837924,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "151035": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 3515562512,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.903
+  },
+  "243097": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 3708739173,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.94
+  },
+  "2789873": {
+    "openingHours": "Mo-Su 11:00-03:00",
+    "website": "https://www.shakercuisineetmixologie.com/",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 3895223357,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.941
+  },
+  "1920719": {
+    "openingHours": "",
+    "website": "https://www.noctem.ca/",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 4350423291,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "177295": {
+    "openingHours": "Mo-Su 15:00-03:00",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 4576713196,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "10055699": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 4599042227,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "4299004": {
+    "openingHours": "",
+    "website": "",
+    "phone": "+1-819-425-6366",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 4712803590,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "1066513": {
+    "openingHours": "Mo-Su 14:00-03:00",
+    "website": "http://ptiticaribou.com",
+    "phone": "+1-819-681-4500",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 5272633522,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "124842": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 5825412808,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.956
+  },
+  "1261122": {
+    "openingHours": "Mo-Su 11:30-03:00",
+    "website": "https://siboire.ca/",
+    "phone": "+1 514 379 3633",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 5891252786,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "4866174": {
+    "openingHours": "",
+    "website": "https://www.shakercuisineetmixologie.com/",
+    "phone": "+1 418 781 0402",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 6172154285,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "356121": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 6517595460,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.946
+  },
+  "4147872": {
+    "openingHours": "Th-Sa 16:00-03:00, Su 16:00-01:00, Tu-We 16:00-02:00",
+    "website": "https://www.sacrefut.com/",
+    "phone": "+1-514-382-8352",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 6761573085,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "346932": {
+    "openingHours": "",
+    "website": "",
+    "phone": "+1-514-419-1416",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 7100698085,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "2489680": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 7433945544,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.909
+  },
+  "4034955": {
+    "openingHours": "",
+    "website": "",
+    "phone": "+1-418-371-0998",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 7659717785,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.963
+  },
+  "914499": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 8712060579,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.976
+  },
+  "247650": {
+    "openingHours": "",
+    "website": "https://www.2656saloon.ca/fr/",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 8791997324,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.957
+  },
+  "177063": {
+    "openingHours": "",
+    "website": "http://dukeanddevines.blogspot.ca/",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 9174522307,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.9
+  },
+  "5166111": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 9178161040,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.88
+  },
+  "10242149": {
+    "openingHours": "",
+    "website": "",
+    "phone": "+1-819-731-3513",
+    "liveMusic": null,
+    "craftBeer": true,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 9260354443,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.984
+  },
+  "2657740": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 9356544587,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.972
+  },
+  "1490549": {
+    "openingHours": "",
+    "website": "https://chassegalerieuqtr.com/",
+    "phone": "+1 819 375 3387",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 10147514203,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.945
+  },
+  "358762": {
+    "openingHours": "Mo-Su 11:00-00:00",
+    "website": "",
+    "phone": "+1-819-755-2550",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 10307517811,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.88
+  },
+  "824557": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 10968539292,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.974
+  },
+  "314377": {
+    "openingHours": "Mo-Su 15:00-03:00",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 12194354011,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "558858": {
+    "openingHours": "",
+    "website": "",
+    "phone": "+1-418-524-5000",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 13179142729,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.977
+  },
+  "10091629": {
+    "openingHours": "",
+    "website": "https://brasseriesirjohn.com",
+    "phone": "+1 450-409-1618",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 13261605322,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.9
+  },
+  "379727": {
+    "openingHours": "Mo-Su 15:00-03:00",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 13456308989,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.946
+  },
+  "4078036": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 13909517039,
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.951
+  },
+  "10156356": {
+    "openingHours": "Mo-We 08:00-23:00; Th-Fr 08:00-00:00; Sa 09:00-00:00; Su 09:00-23:00",
+    "website": "https://baredicola.com/",
+    "phone": "+1-514-419-3232",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "node",
+    "osmId": 14098263602,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "336495": {
+    "openingHours": "Mo-Fr 11:30-23:00; Sa-Su 11:00-23:00",
+    "website": "https://squareoldchelsea.ca/restaurant/chelsea-pub/",
+    "phone": "+1-819-827-5300",
+    "liveMusic": null,
+    "craftBeer": true,
+    "breweries": [
+      "yes"
+    ],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "way",
+    "osmId": 273574749,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.88
+  },
+  "365270": {
+    "openingHours": "",
+    "website": "",
+    "phone": "+1-514-626-2179",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "way",
+    "osmId": 291858029,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "4126710": {
+    "openingHours": "",
+    "website": "",
+    "phone": "+1 450-264-6613",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "way",
+    "osmId": 389809568,
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.903
+  },
+  "350710": {
+    "openingHours": "",
+    "website": "",
+    "phone": "",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "way",
+    "osmId": 671288447,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "3853280": {
+    "openingHours": "Su-We 11:30-00:00; Th-Sa 11:30-01:00",
+    "website": "https://siboire.ca/jacques-cartier/",
+    "phone": "+1-819-791-8440",
+    "liveMusic": null,
+    "craftBeer": true,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "way",
+    "osmId": 724561790,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "3896859": {
+    "openingHours": "Mo-Su 11:00-03:00",
+    "website": "",
+    "phone": "+1-819-827-7727",
+    "liveMusic": null,
+    "craftBeer": null,
+    "breweries": [],
+    "source": "OpenStreetMap",
+    "verified": false,
+    "osmType": "way",
+    "osmId": 1424442550,
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
   }
 }

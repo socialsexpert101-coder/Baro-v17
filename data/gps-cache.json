@@ -2,516 +2,1107 @@
   "1102193": {
     "lat": 46.803293,
     "lon": -71.2256804,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "202341": {
     "lat": 45.5179816,
     "lon": -73.5701731,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "357855": {
     "lat": 45.2564,
     "lon": -74.125738,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "196766": {
     "lat": 45.512313,
     "lon": -73.5622913,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "376996": {
     "lat": 45.5182067,
     "lon": -73.564277,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2215564": {
     "lat": 45.5095902,
     "lon": -73.5710232,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1554237": {
     "lat": 45.4827763,
     "lon": -73.5752097,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "309385": {
     "lat": 45.5257752,
     "lon": -73.599114,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "301044": {
     "lat": 45.5393709,
     "lon": -73.6236783,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "174649": {
     "lat": 45.478605,
     "lon": -73.5693657,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1415298": {
     "lat": 48.4161477,
     "lon": -71.0461919,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1947647": {
     "lat": 48.4173096,
     "lon": -71.0451588,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "207290": {
     "lat": 46.8148143,
     "lon": -71.2089486,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1891662": {
     "lat": 47.0160122,
     "lon": -70.9428355,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "320200": {
     "lat": 45.5397299,
     "lon": -73.6096959,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "227926": {
     "lat": 45.5525652,
     "lon": -73.5330629,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1216266": {
     "lat": 45.4982483,
     "lon": -73.6261368,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "360107": {
     "lat": 46.8545729,
     "lon": -71.6175194,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "287995": {
     "lat": 46.8089076,
     "lon": -71.2223492,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "183558": {
     "lat": 45.5176923,
     "lon": -73.5570703,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "203802": {
     "lat": 46.8091825,
     "lon": -71.221777,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "255349": {
     "lat": 46.8083361,
     "lon": -71.2239269,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1219963": {
     "lat": 45.5306073,
     "lon": -73.6079652,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "157586": {
     "lat": 45.4283748,
     "lon": -75.7199512,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "300707": {
     "lat": 45.4307972,
     "lon": -75.7204801,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "367326": {
     "lat": 45.4374744,
     "lon": -75.735798,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "326900": {
     "lat": 46.8130744,
     "lon": -71.2116744,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "378786": {
     "lat": 45.5403896,
     "lon": -73.6357509,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "176347": {
     "lat": 45.5410795,
     "lon": -73.6298382,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "824623": {
     "lat": 45.4705921,
     "lon": -73.6353129,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2671154": {
     "lat": 45.9517637,
     "lon": -74.1361342,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1202860": {
     "lat": 45.4997573,
     "lon": -72.3150438,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2034486": {
     "lat": 45.4988899,
     "lon": -73.5537927,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "299602": {
     "lat": 46.7828024,
     "lon": -71.3639909,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "323816": {
     "lat": 45.5165581,
     "lon": -73.5663932,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10225862": {
     "lat": 45.5164848,
     "lon": -73.566225,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "277772": {
     "lat": 45.5162315,
     "lon": -73.565719,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "228650": {
     "lat": 45.5208291,
     "lon": -73.585536,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "233296": {
     "lat": 46.058608,
     "lon": -70.9539165,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "313221": {
     "lat": 45.5291292,
     "lon": -73.5779547,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "195479": {
     "lat": 45.5490792,
     "lon": -73.6465536,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "240051": {
     "lat": 45.5407963,
     "lon": -73.622445,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "375360": {
     "lat": 47.8300996,
     "lon": -69.5344488,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "3307972": {
     "lat": 46.3454167,
     "lon": -72.4364581,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "859900": {
     "lat": 45.5154772,
     "lon": -73.5639745,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2370799": {
     "lat": 46.7164228,
     "lon": -71.2701497,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "600528": {
     "lat": 45.7753041,
     "lon": -74.0014454,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10092585": {
     "lat": 45.5666625,
     "lon": -73.5389656,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1998228": {
     "lat": 45.3990732,
     "lon": -71.9167992,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2660306": {
     "lat": 45.526935,
     "lon": -73.6132566,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10023218": {
     "lat": 45.3158175,
     "lon": -73.8770441,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "154161": {
     "lat": 48.3900792,
     "lon": -77.2435361,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4936605": {
     "lat": 50.2074088,
     "lon": -66.3876904,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "373068": {
     "lat": 45.4027699,
     "lon": -73.9474725,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "161737": {
     "lat": 45.3991036,
     "lon": -74.13039,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1963537": {
     "lat": 45.484557,
     "lon": -73.6281157,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "196592": {
     "lat": 46.5619679,
     "lon": -72.2131508,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2085165": {
     "lat": 45.4871044,
     "lon": -73.6359089,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2835114": {
     "lat": 46.3647386,
     "lon": -72.5284854,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4634630": {
     "lat": 46.0524133,
     "lon": -71.9964632,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "351684": {
     "lat": 46.5587968,
     "lon": -72.7418653,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "276394": {
     "lat": 45.458739,
     "lon": -74.1407043,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "3962636": {
     "lat": 46.2257159,
     "lon": -72.615821,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1076587": {
     "lat": 45.5557443,
     "lon": -73.6681879,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "3146883": {
     "lat": 45.5541962,
     "lon": -73.5438467,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "170241": {
     "lat": 49.220182,
     "lon": -68.1548458,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "360164": {
     "lat": 48.4216754,
     "lon": -67.3419272,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "188946": {
     "lat": 48.4724286,
     "lon": -67.4390384,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "159095": {
     "lat": 45.4955948,
     "lon": -73.6540875,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1793553": {
     "lat": 45.5267956,
     "lon": -73.5887263,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "374801": {
     "lat": 45.5160529,
     "lon": -73.5659204,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "723775": {
     "lat": 45.1323955,
     "lon": -71.7965693,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "493601": {
     "lat": 45.5660103,
     "lon": -73.6150635,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "262568": {
     "lat": 45.5331432,
     "lon": -73.5527006,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10033449": {
     "lat": 45.4045881,
     "lon": -71.8921911,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "161596": {
     "lat": 45.5312065,
     "lon": -73.6077434,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "246249": {
     "lat": 45.4542433,
     "lon": -73.5945511,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "311456": {
     "lat": 45.5406623,
     "lon": -73.6133745,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10237230": {
     "lat": 45.5031684,
     "lon": -73.5628983,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1529684": {
     "lat": 45.5164365,
     "lon": -73.5661187,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "10098988": {
     "lat": 45.5418643,
     "lon": -73.565315,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "316489": {
     "lat": 45.5770145,
     "lon": -73.6809902,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "351650": {
     "lat": 45.5457078,
     "lon": -73.6249989,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "271437": {
     "lat": 45.1899298,
     "lon": -73.4072031,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4155511": {
     "lat": 45.6575941,
     "lon": -74.3321532,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4560520": {
     "lat": 45.5031316,
     "lon": -73.5685339,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "178251": {
     "lat": 45.3945502,
     "lon": -75.8343098,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "315911": {
     "lat": 45.3837507,
     "lon": -75.8051886,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "374264": {
     "lat": 48.8460271,
     "lon": -67.5292006,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "157743": {
     "lat": 46.8156024,
     "lon": -71.2285044,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "487751": {
     "lat": 46.4656413,
     "lon": -71.0447482,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "252593": {
     "lat": 45.4270877,
     "lon": -75.7156975,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "373431": {
     "lat": 45.5250309,
     "lon": -73.5754573,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "220061": {
     "lat": 48.5721336,
     "lon": -78.1212507,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "4660213": {
     "lat": 45.394923,
     "lon": -75.8406325,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "861393": {
     "lat": 45.3953755,
     "lon": -75.845701,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1026012": {
     "lat": 48.3497682,
     "lon": -64.6763648,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "3521051": {
     "lat": 48.5207103,
     "lon": -64.2153504,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "328278": {
     "lat": 49.9138891,
     "lon": -74.3604301,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "1174499": {
     "lat": 49.0514782,
     "lon": -76.9770634,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2761732": {
     "lat": 45.5290917,
     "lon": -73.9363389,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "2808327": {
     "lat": 48.4656436,
     "lon": -67.4337428,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
   },
   "172973": {
     "lat": 46.8148614,
     "lon": -71.2196802,
-    "source": "OpenStreetMap"
+    "source": "OpenStreetMap",
+    "matchMethod": "A_exact_name_city",
+    "matchConfidence": 1.0
+  },
+  "537019": {
+    "lat": 45.5134424,
+    "lon": -73.5712107,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.974
+  },
+  "880567": {
+    "lat": 46.3741945,
+    "lon": -72.550678,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "2779569": {
+    "lat": 45.498273,
+    "lon": -73.5782894,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "735423": {
+    "lat": 45.5188997,
+    "lon": -73.5840251,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.88
+  },
+  "1056845": {
+    "lat": 45.3871757,
+    "lon": -71.925953,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.93
+  },
+  "709659": {
+    "lat": 45.3945581,
+    "lon": -71.8903197,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "2385060": {
+    "lat": 45.4896681,
+    "lon": -73.564473,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "2109924": {
+    "lat": 45.4464466,
+    "lon": -73.286117,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.931
+  },
+  "261909": {
+    "lat": 45.5239167,
+    "lon": -73.5825133,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "1233717": {
+    "lat": 45.5330916,
+    "lon": -73.6060372,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.968
+  },
+  "322644": {
+    "lat": 45.5517586,
+    "lon": -73.5405027,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.966
+  },
+  "307256": {
+    "lat": 46.8267757,
+    "lon": -71.230298,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.897
+  },
+  "345272": {
+    "lat": 45.586206,
+    "lon": -72.019198,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "960716": {
+    "lat": 45.5149882,
+    "lon": -73.5653569,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "1619139": {
+    "lat": 45.2662508,
+    "lon": -72.1553253,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "10260240": {
+    "lat": 45.4424921,
+    "lon": -73.4388568,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.976
+  },
+  "2203750": {
+    "lat": 46.3421398,
+    "lon": -72.5432253,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "288092": {
+    "lat": 46.3433017,
+    "lon": -72.5407472,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "151035": {
+    "lat": 46.3176673,
+    "lon": -74.2208232,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.903
+  },
+  "243097": {
+    "lat": 46.8136414,
+    "lon": -71.2109871,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.94
+  },
+  "2789873": {
+    "lat": 46.7868859,
+    "lon": -71.2819962,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.941
+  },
+  "1920719": {
+    "lat": 46.8141681,
+    "lon": -71.2234294,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "177295": {
+    "lat": 45.4989618,
+    "lon": -73.5730732,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "10055699": {
+    "lat": 45.9516631,
+    "lon": -74.1352773,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "4299004": {
+    "lat": 46.1196515,
+    "lon": -74.5754416,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "1066513": {
+    "lat": 46.2118807,
+    "lon": -74.5864,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "124842": {
+    "lat": 46.0456806,
+    "lon": -73.1147162,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.956
+  },
+  "1261122": {
+    "lat": 45.5231944,
+    "lon": -73.5928043,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "4866174": {
+    "lat": 46.8131976,
+    "lon": -71.2280572,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "356121": {
+    "lat": 46.7533858,
+    "lon": -71.2374103,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.946
+  },
+  "4147872": {
+    "lat": 45.5603638,
+    "lon": -73.6580588,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "346932": {
+    "lat": 45.514868,
+    "lon": -73.5743793,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "2489680": {
+    "lat": 45.546522,
+    "lon": -73.665848,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.909
+  },
+  "4034955": {
+    "lat": 47.2147147,
+    "lon": -70.2720943,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.963
+  },
+  "914499": {
+    "lat": 45.3053009,
+    "lon": -72.6797763,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.976
+  },
+  "247650": {
+    "lat": 45.54606,
+    "lon": -73.5759841,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.957
+  },
+  "177063": {
+    "lat": 45.3997524,
+    "lon": -74.0269991,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.9
+  },
+  "5166111": {
+    "lat": 45.4038998,
+    "lon": -74.0361777,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.88
+  },
+  "10242149": {
+    "lat": 46.5488248,
+    "lon": -72.7462554,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.984
+  },
+  "2657740": {
+    "lat": 46.6163165,
+    "lon": -72.6901878,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.972
+  },
+  "1490549": {
+    "lat": 46.3484547,
+    "lon": -72.5771448,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.945
+  },
+  "358762": {
+    "lat": 49.0517357,
+    "lon": -76.9792632,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.88
+  },
+  "824557": {
+    "lat": 45.5699069,
+    "lon": -73.6405275,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.974
+  },
+  "314377": {
+    "lat": 45.4729012,
+    "lon": -73.5888085,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "558858": {
+    "lat": 46.8104606,
+    "lon": -71.2185548,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.977
+  },
+  "10091629": {
+    "lat": 45.6568653,
+    "lon": -74.3364556,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.9
+  },
+  "379727": {
+    "lat": 45.5198407,
+    "lon": -73.5953736,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.946
+  },
+  "4078036": {
+    "lat": 45.4685784,
+    "lon": -73.5907112,
+    "source": "OpenStreetMap",
+    "matchMethod": "D_fuzzy_name_address",
+    "matchConfidence": 0.951
+  },
+  "10156356": {
+    "lat": 45.4991693,
+    "lon": -73.5720387,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "336495": {
+    "lat": 45.503228,
+    "lon": -75.8103013,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.88
+  },
+  "365270": {
+    "lat": 45.4736184,
+    "lon": -73.8717848,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "4126710": {
+    "lat": 45.089085,
+    "lon": -74.1723265,
+    "source": "OpenStreetMap",
+    "matchMethod": "C_fuzzy_name_postal",
+    "matchConfidence": 0.903
+  },
+  "350710": {
+    "lat": 45.490949,
+    "lon": -75.6521411,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "3853280": {
+    "lat": 45.397905,
+    "lon": -71.9183347,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
+  },
+  "3896859": {
+    "lat": 45.5042189,
+    "lon": -75.7829091,
+    "source": "OpenStreetMap",
+    "matchMethod": "B_exact_name_postal",
+    "matchConfidence": 0.99
   }
 }
